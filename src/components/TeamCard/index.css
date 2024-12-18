@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+}
+.teams-log {
+  width: 100px;
+  height: 80px;
+  margin-right: 15px;
+}
+.team-name {
+  color: white;
+  font-family: Bree Serif;
+  font-size: 30px;
+  text-align: center;
+}
+.link {
+  text-decoration: none;
+  background-color: transparent;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px;
+  margin: 15px;
+  width: 400px;
+  height: 150px;
+  border: 1px solid #ffffff;
+}
